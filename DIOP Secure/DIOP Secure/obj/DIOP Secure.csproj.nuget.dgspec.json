@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\reald\\Documents\\GitHub\\DIOP-Secure\\DIOP Secure\\DIOP Secure\\DIOP Secure.csproj": {}
+    "C:\\Users\\reald\\Desktop\\DIOP Secure\\DIOP Secure\\DIOP Secure.csproj": {}
   },
   "projects": {
-    "C:\\Users\\reald\\Documents\\GitHub\\DIOP-Secure\\DIOP Secure\\DIOP Secure\\DIOP Secure.csproj": {
+    "C:\\Users\\reald\\Desktop\\DIOP Secure\\DIOP Secure\\DIOP Secure.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\reald\\Documents\\GitHub\\DIOP-Secure\\DIOP Secure\\DIOP Secure\\DIOP Secure.csproj",
+        "projectUniqueName": "C:\\Users\\reald\\Desktop\\DIOP Secure\\DIOP Secure\\DIOP Secure.csproj",
         "projectName": "DIOP Secure",
-        "projectPath": "C:\\Users\\reald\\Documents\\GitHub\\DIOP-Secure\\DIOP Secure\\DIOP Secure\\DIOP Secure.csproj",
+        "projectPath": "C:\\Users\\reald\\Desktop\\DIOP Secure\\DIOP Secure\\DIOP Secure.csproj",
         "packagesPath": "C:\\Users\\reald\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\reald\\Documents\\GitHub\\DIOP-Secure\\DIOP Secure\\DIOP Secure\\obj\\",
+        "outputPath": "C:\\Users\\reald\\Desktop\\DIOP Secure\\DIOP Secure\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\"

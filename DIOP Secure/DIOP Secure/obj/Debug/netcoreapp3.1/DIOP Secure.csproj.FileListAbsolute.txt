@@ -32,3 +32,20 @@ C:\Users\reald\Documents\GitHub\DIOP-Secure\DIOP Secure\DIOP Secure\obj\Debug\ne
 C:\Users\reald\Documents\GitHub\DIOP-Secure\DIOP Secure\DIOP Secure\obj\Debug\netcoreapp3.1\DIOP Secure.dll
 C:\Users\reald\Documents\GitHub\DIOP-Secure\DIOP Secure\DIOP Secure\obj\Debug\netcoreapp3.1\DIOP Secure.pdb
 C:\Users\reald\Documents\GitHub\DIOP-Secure\DIOP Secure\DIOP Secure\obj\Debug\netcoreapp3.1\DIOP Secure.genruntimeconfig.cache
+C:\Users\reald\Desktop\DIOP Secure\DIOP Secure\bin\Debug\netcoreapp3.1\DIOP Secure.exe
+C:\Users\reald\Desktop\DIOP Secure\DIOP Secure\bin\Debug\netcoreapp3.1\DIOP Secure.deps.json
+C:\Users\reald\Desktop\DIOP Secure\DIOP Secure\bin\Debug\netcoreapp3.1\DIOP Secure.runtimeconfig.json
+C:\Users\reald\Desktop\DIOP Secure\DIOP Secure\bin\Debug\netcoreapp3.1\DIOP Secure.runtimeconfig.dev.json
+C:\Users\reald\Desktop\DIOP Secure\DIOP Secure\bin\Debug\netcoreapp3.1\DIOP Secure.dll
+C:\Users\reald\Desktop\DIOP Secure\DIOP Secure\bin\Debug\netcoreapp3.1\DIOP Secure.pdb
+C:\Users\reald\Desktop\DIOP Secure\DIOP Secure\obj\Debug\netcoreapp3.1\DIOP Secure.csprojAssemblyReference.cache
+C:\Users\reald\Desktop\DIOP Secure\DIOP Secure\obj\Debug\netcoreapp3.1\DIOP_Secure.Form1.resources
+C:\Users\reald\Desktop\DIOP Secure\DIOP Secure\obj\Debug\netcoreapp3.1\DIOP_Secure.licenceagreement.resources
+C:\Users\reald\Desktop\DIOP Secure\DIOP Secure\obj\Debug\netcoreapp3.1\DIOP_Secure.RequirePass.resources
+C:\Users\reald\Desktop\DIOP Secure\DIOP Secure\obj\Debug\netcoreapp3.1\DIOP Secure.csproj.GenerateResource.cache
+C:\Users\reald\Desktop\DIOP Secure\DIOP Secure\obj\Debug\netcoreapp3.1\DIOP Secure.AssemblyInfoInputs.cache
+C:\Users\reald\Desktop\DIOP Secure\DIOP Secure\obj\Debug\netcoreapp3.1\DIOP Secure.AssemblyInfo.cs
+C:\Users\reald\Desktop\DIOP Secure\DIOP Secure\obj\Debug\netcoreapp3.1\DIOP Secure.csproj.CoreCompileInputs.cache
+C:\Users\reald\Desktop\DIOP Secure\DIOP Secure\obj\Debug\netcoreapp3.1\DIOP Secure.dll
+C:\Users\reald\Desktop\DIOP Secure\DIOP Secure\obj\Debug\netcoreapp3.1\DIOP Secure.pdb
+C:\Users\reald\Desktop\DIOP Secure\DIOP Secure\obj\Debug\netcoreapp3.1\DIOP Secure.genruntimeconfig.cache

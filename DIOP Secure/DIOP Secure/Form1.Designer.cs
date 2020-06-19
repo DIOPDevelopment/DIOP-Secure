@@ -31,7 +31,6 @@
             System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(Form1));
             this.textBox1 = new System.Windows.Forms.TextBox();
             this.button2 = new System.Windows.Forms.Button();
-            this.ShowButton = new System.Windows.Forms.Button();
             this.textBox4 = new System.Windows.Forms.TextBox();
             this.label1 = new System.Windows.Forms.Label();
             this.label2 = new System.Windows.Forms.Label();
@@ -58,19 +57,6 @@
             this.button2.Text = "ADD";
             this.button2.UseVisualStyleBackColor = false;
             this.button2.Click += new System.EventHandler(this.button2_Click);
-            // 
-            // ShowButton
-            // 
-            this.ShowButton.BackColor = System.Drawing.SystemColors.WindowFrame;
-            this.ShowButton.FlatStyle = System.Windows.Forms.FlatStyle.Popup;
-            this.ShowButton.Font = new System.Drawing.Font("Segoe UI", 15.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point);
-            this.ShowButton.Location = new System.Drawing.Point(12, 170);
-            this.ShowButton.Name = "ShowButton";
-            this.ShowButton.Size = new System.Drawing.Size(90, 47);
-            this.ShowButton.TabIndex = 4;
-            this.ShowButton.Text = "Update";
-            this.ShowButton.UseVisualStyleBackColor = false;
-            this.ShowButton.Click += new System.EventHandler(this.button3_Click);
             // 
             // textBox4
             // 
@@ -123,7 +109,6 @@
             this.Controls.Add(this.label2);
             this.Controls.Add(this.label1);
             this.Controls.Add(this.textBox4);
-            this.Controls.Add(this.ShowButton);
             this.Controls.Add(this.button2);
             this.Controls.Add(this.textBox1);
             this.Icon = ((System.Drawing.Icon)(resources.GetObject("$this.Icon")));
@@ -137,7 +122,6 @@
         #endregion
         private System.Windows.Forms.TextBox textBox1;
         private System.Windows.Forms.Button button2;
-        private System.Windows.Forms.Button ShowButton;
         private System.Windows.Forms.TextBox textBox4;
         private System.Windows.Forms.Label label1;
         private System.Windows.Forms.Label label2;
